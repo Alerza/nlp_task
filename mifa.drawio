@@ -28,23 +28,15 @@
         <mxCell id="8PcQ7nakSTah3cGR8VLx-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="180" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8PcQ7nakSTah3cGR8VLx-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="880" y="240" width="60" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="8PcQ7nakSTah3cGR8VLx-28" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4PSIwcHgiIHk9IjBweCIgd2lkdGg9IjQ4cHgiIGhlaWdodD0iNDhweCIgdmlld0JveD0iMCAwIDQ4IDQ4IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCA0OCA0OCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+JiN4YTs8ZyBpZD0iY29sb3JfMzNfIj4mI3hhOwk8Zz4mI3hhOwkJPHBhdGggZmlsbD0iI0YxNjM2MiIgZD0iTTQ1LDIzaC01bC00LTEyYzAtMC41NTMtMC40NDctMS0xLTFoLTFoLTVIN2MtMC41NTMsMC0xLDAuNDQ3LTEsMXYyNGMwLDAuNTUzLDAuNDQ3LDEsMSwxaDI3ICAgIGMwLjE4NiwwLDAuMzUxLTAuMDY0LDAuNS0wLjE1M0MzNC42NDksMzUuOTM2LDM0LjgxNCwzNiwzNSwzNmg4YzAuNTUzLDAsMy0yLjQ0NywzLTN2LTlDNDYsMjMuNDQ3LDQ1LjU1MywyMyw0NSwyM3oiLz4mI3hhOwk8L2c+JiN4YTs8L2c+JiN4YTs8ZyBpZD0ib3V0bGluZV8zM18iPiYjeGE7CTxnPiYjeGE7CQk8cGF0aCBmaWxsPSIjMzg0RDY4IiBkPSJNMjEuMjgxLDMxLjM2MmMtMC4zNzUsMC4zNzMtMC4zNzUsMC45NzgsMCwxLjM1MXMwLjk4MiwwLjM3MywxLjM1NywwbDQuMDczLTQuMDUzICAgIGMwLjM3NC0wLjM3MywwLjM3NC0wLjk3OCwwLTEuMzUxbC00LjA3My00LjA1M2MtMC4zNzUtMC4zNzMtMC45ODItMC4zNzMtMS4zNTcsMHMtMC4zNzUsMC45NzgsMCwxLjM1MUwyMy42ODYsMjdIMTYgICAgYy0xLjY1NiwwLTMtMS4zNDMtMy0zdi00YzAtMC41NTMtMC40NDctMS0xLTFzLTEsMC40NDctMSwxdjRjMCwyLjc2MiwyLjIzOCw1LDUsNWg3LjY1NUwyMS4yODEsMzEuMzYyeiBNNDEsMjYgICAgYzAuNTUzLDAsMS0wLjQ0NywxLTFzLTAuNDQ3LTEtMS0xaC0yYy0wLjU1MywwLTEsMC40NDctMSwxczAuNDQ3LDEsMSwxSDQxeiBNMTMsMzVjLTEuNjU2LDAtMywxLjM0My0zLDNzMS4zNDQsMywzLDNzMy0xLjM0MywzLTMgICAgUzE0LjY1NiwzNSwxMywzNXogTTEzLDM5Yy0wLjU1MywwLTEtMC40NDctMS0xczAuNDQ3LTEsMS0xczEsMC40NDcsMSwxUzEzLjU1MywzOSwxMywzOXogTTI4LDM1SDE4Yy0wLjU1MywwLTEsMC40NDctMSwxICAgIHMwLjQ0NywxLDEsMWgxMGMwLjU1MywwLDEtMC40NDcsMS0xUzI4LjU1MywzNSwyOCwzNXogTTQyLDIwaC0yYy0xLjEwNCwwLTItMC44OTYtMi0ybC0yLTdjMC0yLjIwOS0xLjc5MS00LTQtNEgzICAgIEMyLjQ0Nyw3LDIsNy40NDcsMiw4djI4YzAsMC41NTMsMC40NDcsMSwxLDFoNWMwLjU1MywwLDEtMC40NDcsMS0xcy0wLjQ0Ny0xLTEtMUg0VjloMjhjMS4xMDQsMCwyLDAuODk2LDIsMmwyLDcgICAgYzAsMi4yMDksMS43OTEsNCw0LDRoMmMxLjEwNCwwLDIsMC44OTYsMiwydjljMCwxLjEwNC0wLjg5NiwyLTIsMmgtNGMtMC41NTMsMC0xLDAuNDQ3LTEsMXMwLjQ0NywxLDEsMWg0YzIuMjA5LDAsNC0xLjc5MSw0LTR2LTkgICAgQzQ2LDIxLjc5MSw0NC4yMDksMjAsNDIsMjB6IE0zMiwyMmMxLjEwNCwwLDItMC44OTYsMi0ybC0yLTdjMC0xLjEwNC0wLjg5Ni0yLTItMmgtNGMtMS4xMDQsMC0yLDAuODk2LTIsMnY3YzAsMS4xMDQsMC44OTYsMiwyLDIgICAgSDMyeiBNMjYsMTNoNGwyLDdoLTZWMTN6IE0zMywzNWMtMS42NTYsMC0zLDEuMzQzLTMsM3MxLjM0NCwzLDMsM3MzLTEuMzQzLDMtM1MzNC42NTYsMzUsMzMsMzV6IE0zMywzOWMtMC41NTMsMC0xLTAuNDQ3LTEtMSAgICBzMC40NDctMSwxLTFzMSwwLjQ0NywxLDFTMzMuNTUzLDM5LDMzLDM5eiIvPiYjeGE7CTwvZz4mI3hhOzwvZz4mI3hhOzwvc3ZnPg==" parent="1" vertex="1">
           <mxGeometry x="267" y="560" width="48" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="CTi8w1WEokJW1-Tsi8km-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="390" as="sourcePoint" />
-            <mxPoint x="617.7777777777778" y="380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CTi8w1WEokJW1-Tsi8km-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="CTi8w1WEokJW1-Tsi8km-3" target="CTi8w1WEokJW1-Tsi8km-12">
+        <mxCell id="CTi8w1WEokJW1-Tsi8km-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="CTi8w1WEokJW1-Tsi8km-3" target="CTi8w1WEokJW1-Tsi8km-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="285" y="370" />
-              <mxPoint x="1075" y="370" />
+              <mxPoint x="285" y="400" />
+              <mxPoint x="990" y="400" />
+              <mxPoint x="990" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -62,8 +54,48 @@
             <mxRectangle x="860" y="450" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CTi8w1WEokJW1-Tsi8km-13" value="&lt;span style=&quot;font-family: Vazirmatn;&quot;&gt;دریافت محموله و ثبت در&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;font-family: Vazirmatn;&quot;&gt;CIMS&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CTi8w1WEokJW1-Tsi8km-12">
+        <mxCell id="CTi8w1WEokJW1-Tsi8km-13" value="&lt;font face=&quot;Vazirmatn&quot;&gt;انبارش کانتینرها در محوطه گمرک داخلی&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CTi8w1WEokJW1-Tsi8km-12">
           <mxGeometry y="30" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CTi8w1WEokJW1-Tsi8km-20" value="&lt;font face=&quot;Vazirmatn&quot;&gt;&lt;b&gt;انبار کانتینری&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="290" width="90" height="80" as="geometry">
+            <mxRectangle x="860" y="450" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTi8w1WEokJW1-Tsi8km-21" value="&lt;font face=&quot;Vazirmatn&quot;&gt;انبارش کانتینرها در محوطه گمرک داخلی&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CTi8w1WEokJW1-Tsi8km-20">
+          <mxGeometry y="30" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CTi8w1WEokJW1-Tsi8km-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="420" as="sourcePoint" />
+            <mxPoint x="590" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTi8w1WEokJW1-Tsi8km-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.011;entryY=0.16;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="CTi8w1WEokJW1-Tsi8km-13" target="CTi8w1WEokJW1-Tsi8km-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CTi8w1WEokJW1-Tsi8km-24" value="&lt;font face=&quot;Vazirmatn&quot;&gt;&lt;b&gt;بارانداز انبار شمالی&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="180" width="90" height="70" as="geometry">
+            <mxRectangle x="860" y="450" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTi8w1WEokJW1-Tsi8km-25" value="&lt;font face=&quot;Vazirmatn&quot;&gt;بازگشایی کانتینرها&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CTi8w1WEokJW1-Tsi8km-24">
+          <mxGeometry y="30" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CTi8w1WEokJW1-Tsi8km-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="420" as="sourcePoint" />
+            <mxPoint x="590" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTi8w1WEokJW1-Tsi8km-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="420" as="sourcePoint" />
+            <mxPoint x="590" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTi8w1WEokJW1-Tsi8km-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.033;entryY=0.325;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="CTi8w1WEokJW1-Tsi8km-21" target="CTi8w1WEokJW1-Tsi8km-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
