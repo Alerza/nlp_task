@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3ne1QswCM8ZiEu4GHsYG-31" value="Company Goods Delivery Procedure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;fontColor=#4D4D4D;" parent="1" vertex="1">
-          <mxGeometry x="189.5" y="50" width="790" height="30" as="geometry" />
+          <mxGeometry x="191" y="10" width="790" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3ne1QswCM8ZiEu4GHsYG-32" value="" style="line;strokeWidth=2;html=1;fontSize=20;fontColor=#4D4D4D;" parent="1" vertex="1">
-          <mxGeometry x="103.5" y="80" width="960" height="10" as="geometry" />
+          <mxGeometry x="105" y="40" width="960" height="10" as="geometry" />
         </mxCell>
         <mxCell id="AEj7Rj_eL6BV5jfszyMK-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;strokeWidth=5;fillColor=#b0e3e6;strokeColor=#0e8088;opacity=60;shadow=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="CTi8w1WEokJW1-Tsi8km-3" target="CTi8w1WEokJW1-Tsi8km-13">
           <mxGeometry relative="1" as="geometry">
@@ -27,18 +27,18 @@
         <mxCell id="CTi8w1WEokJW1-Tsi8km-4" value="&lt;span style=&quot;font-family: Vazirmatn;&quot;&gt;دریافت محموله&amp;nbsp; و رسید موقت&lt;/span&gt;" style="text;strokeColor=#10739e;fillColor=#b1ddf0;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;swimlaneFillColor=none;rounded=1;" parent="CTi8w1WEokJW1-Tsi8km-3" vertex="1">
           <mxGeometry y="30" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CTi8w1WEokJW1-Tsi8km-12" value="&lt;font&gt;&lt;b&gt;انبار گمرک&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;fillColor=#d0cee2;strokeColor=#56517e;shadow=1;glass=0;opacity=80;" parent="1" vertex="1">
+        <mxCell id="CTi8w1WEokJW1-Tsi8km-12" value="&lt;font&gt;&lt;b&gt;انبار گمرک&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;fillColor=#E5CCFF;strokeColor=#56517e;shadow=1;glass=0;opacity=80;gradientColor=#CC99FF;gradientDirection=west;" parent="1" vertex="1">
           <mxGeometry x="1200" y="90" width="90" height="280" as="geometry">
             <mxRectangle x="860" y="450" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CTi8w1WEokJW1-Tsi8km-13" value="&lt;font&gt;انبارش کانتینرها در محوطه گمرک&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font&gt;داخلی&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=#56517e;fillColor=#d0cee2;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;shadow=1;glass=0;rounded=0;opacity=80;" parent="CTi8w1WEokJW1-Tsi8km-12" vertex="1">
+        <mxCell id="CTi8w1WEokJW1-Tsi8km-13" value="&lt;font&gt;انبارش کانتینرها در محوطه گمرک&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font&gt;داخلی&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=#56517e;fillColor=#E5CCFF;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;shadow=1;glass=0;rounded=0;opacity=80;gradientColor=#CC99FF;gradientDirection=west;" parent="CTi8w1WEokJW1-Tsi8km-12" vertex="1">
           <mxGeometry y="30" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AEj7Rj_eL6BV5jfszyMK-1" value="انتقال کانتینرهای داخلی به انبار گمرک" style="text;strokeColor=#56517e;fillColor=#d0cee2;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;shadow=1;glass=0;rounded=0;opacity=80;" vertex="1" parent="CTi8w1WEokJW1-Tsi8km-12">
+        <mxCell id="AEj7Rj_eL6BV5jfszyMK-1" value="انتقال کانتینرهای داخلی به انبار گمرک" style="text;strokeColor=#56517e;fillColor=#E5CCFF;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;shadow=1;glass=0;rounded=0;opacity=80;gradientColor=#CC99FF;gradientDirection=west;" vertex="1" parent="CTi8w1WEokJW1-Tsi8km-12">
           <mxGeometry y="80" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AEj7Rj_eL6BV5jfszyMK-2" value="جابه جایی قطعات از کانتینر به کانتینر داخلی" style="text;strokeColor=#56517e;fillColor=#d0cee2;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;shadow=1;glass=0;rounded=0;opacity=80;" vertex="1" parent="CTi8w1WEokJW1-Tsi8km-12">
+        <mxCell id="AEj7Rj_eL6BV5jfszyMK-2" value="جابه جایی قطعات از کانتینر به کانتینر داخلی" style="text;strokeColor=#56517e;fillColor=#E5CCFF;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;shadow=1;glass=0;rounded=0;opacity=80;gradientColor=#CC99FF;gradientDirection=west;" vertex="1" parent="CTi8w1WEokJW1-Tsi8km-12">
           <mxGeometry y="130" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AEj7Rj_eL6BV5jfszyMK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;curved=1;strokeWidth=5;shadow=1;fillColor=#b0e3e6;strokeColor=#0e8088;opacity=60;" edge="1" parent="CTi8w1WEokJW1-Tsi8km-12" source="AEj7Rj_eL6BV5jfszyMK-3">
@@ -52,24 +52,24 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AEj7Rj_eL6BV5jfszyMK-3" value="بارگیری و ارسال کانتینرها به خارج شرکت" style="text;strokeColor=#56517e;fillColor=#d0cee2;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;shadow=1;glass=0;rounded=0;opacity=80;" vertex="1" parent="CTi8w1WEokJW1-Tsi8km-12">
+        <mxCell id="AEj7Rj_eL6BV5jfszyMK-3" value="بارگیری و ارسال کانتینرها به خارج شرکت" style="text;strokeColor=#56517e;fillColor=#E5CCFF;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;shadow=1;glass=0;rounded=0;opacity=80;gradientColor=#CC99FF;gradientDirection=west;" vertex="1" parent="CTi8w1WEokJW1-Tsi8km-12">
           <mxGeometry y="180" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AEj7Rj_eL6BV5jfszyMK-9" value="ترخیص و انتقال کانتینر به انبار کانتینری" style="text;strokeColor=none;fillColor=#d0cee2;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;shadow=1;glass=0;rounded=1;opacity=80;" vertex="1" parent="CTi8w1WEokJW1-Tsi8km-12">
+        <mxCell id="AEj7Rj_eL6BV5jfszyMK-9" value="ترخیص و انتقال کانتینر به انبار کانتینری" style="text;strokeColor=none;fillColor=#E5CCFF;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;shadow=1;glass=0;rounded=1;opacity=80;gradientColor=#CC99FF;gradientDirection=west;" vertex="1" parent="CTi8w1WEokJW1-Tsi8km-12">
           <mxGeometry y="230" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CTi8w1WEokJW1-Tsi8km-20" value="&lt;font&gt;&lt;b&gt;انبار کانتینری&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;fillColor=#fad9d5;strokeColor=#ae4132;shadow=1;" parent="1" vertex="1">
+        <mxCell id="CTi8w1WEokJW1-Tsi8km-20" value="&lt;font&gt;&lt;b&gt;انبار کانتینری&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;fillColor=#CCFF99;strokeColor=#ae4132;shadow=1;gradientColor=#CCFFFF;gradientDirection=east;" parent="1" vertex="1">
           <mxGeometry x="1200" y="409" width="90" height="180" as="geometry">
             <mxRectangle x="860" y="450" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AEj7Rj_eL6BV5jfszyMK-4" value="خالی کردن 18 کانتینر داخلی" style="text;strokeColor=#ae4132;fillColor=#fad9d5;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;rounded=0;shadow=1;" vertex="1" parent="CTi8w1WEokJW1-Tsi8km-20">
+        <mxCell id="AEj7Rj_eL6BV5jfszyMK-4" value="خالی کردن 18 کانتینر داخلی" style="text;strokeColor=#ae4132;fillColor=#CCFF99;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;rounded=0;shadow=1;gradientColor=#CCFFFF;gradientDirection=east;" vertex="1" parent="CTi8w1WEokJW1-Tsi8km-20">
           <mxGeometry y="30" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CTi8w1WEokJW1-Tsi8km-21" value="&lt;font&gt;انبارش کانتینرها در محوطه گمرک داخلی&lt;/font&gt;" style="text;strokeColor=#ae4132;fillColor=#fad9d5;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;rounded=0;shadow=1;" parent="CTi8w1WEokJW1-Tsi8km-20" vertex="1">
+        <mxCell id="CTi8w1WEokJW1-Tsi8km-21" value="&lt;font&gt;انبارش کانتینرها در محوطه گمرک داخلی&lt;/font&gt;" style="text;strokeColor=#ae4132;fillColor=#CCFF99;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;rounded=0;shadow=1;gradientColor=#CCFFFF;gradientDirection=east;" parent="CTi8w1WEokJW1-Tsi8km-20" vertex="1">
           <mxGeometry y="80" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AEj7Rj_eL6BV5jfszyMK-11" value="انتقال به بارانداز" style="text;strokeColor=none;fillColor=#fad9d5;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;rounded=1;shadow=1;" vertex="1" parent="CTi8w1WEokJW1-Tsi8km-20">
+        <mxCell id="AEj7Rj_eL6BV5jfszyMK-11" value="انتقال به بارانداز" style="text;strokeColor=none;fillColor=#CCFF99;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;rounded=1;shadow=1;gradientColor=#CCFFFF;gradientDirection=east;" vertex="1" parent="CTi8w1WEokJW1-Tsi8km-20">
           <mxGeometry y="130" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AEj7Rj_eL6BV5jfszyMK-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fillColor=#d80073;strokeColor=#A50040;opacity=60;strokeWidth=5;shadow=1;" edge="1" parent="1" source="CTi8w1WEokJW1-Tsi8km-24" target="CTi8w1WEokJW1-Tsi8km-31">
@@ -89,15 +89,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CTi8w1WEokJW1-Tsi8km-24" value="&lt;font face=&quot;Vazirmatn&quot;&gt;&lt;b&gt;بارانداز انبار شمالی&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillColor=#bac8d3;strokeColor=#23445d;shadow=1;" parent="1" vertex="1">
+        <mxCell id="CTi8w1WEokJW1-Tsi8km-24" value="&lt;font face=&quot;Vazirmatn&quot;&gt;&lt;b&gt;بارانداز انبار شمالی&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillColor=#FF99CC;strokeColor=#23445d;shadow=1;gradientColor=#E6E6E6;gradientDirection=east;" parent="1" vertex="1">
           <mxGeometry x="930" y="130" width="90" height="110" as="geometry">
             <mxRectangle x="860" y="450" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CTi8w1WEokJW1-Tsi8km-25" value="&lt;font face=&quot;Vazirmatn&quot;&gt;بازگشایی کانتینرها&lt;/font&gt;" style="text;strokeColor=default;fillColor=#bac8d3;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shadow=1;rounded=0;" parent="CTi8w1WEokJW1-Tsi8km-24" vertex="1">
+        <mxCell id="CTi8w1WEokJW1-Tsi8km-25" value="&lt;font face=&quot;Vazirmatn&quot;&gt;بازگشایی کانتینرها&lt;/font&gt;" style="text;strokeColor=default;fillColor=#FF99CC;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shadow=1;rounded=0;gradientColor=#E6E6E6;gradientDirection=east;" parent="CTi8w1WEokJW1-Tsi8km-24" vertex="1">
           <mxGeometry y="30" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AEj7Rj_eL6BV5jfszyMK-13" value="ثبت" style="text;strokeColor=none;fillColor=#bac8d3;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;shadow=1;" vertex="1" parent="CTi8w1WEokJW1-Tsi8km-24">
+        <mxCell id="AEj7Rj_eL6BV5jfszyMK-13" value="ثبت" style="text;strokeColor=none;fillColor=#FF99CC;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;shadow=1;gradientColor=#E6E6E6;gradientDirection=east;" vertex="1" parent="CTi8w1WEokJW1-Tsi8km-24">
           <mxGeometry y="70" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CTi8w1WEokJW1-Tsi8km-29" value="&lt;font face=&quot;Vazirmatn&quot;&gt;&lt;b&gt;انبار شمالی&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillColor=#00CCCC;strokeColor=#BD7000;fontColor=#000000;shadow=1;" parent="1" vertex="1">
@@ -105,7 +105,7 @@
             <mxRectangle x="860" y="450" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CTi8w1WEokJW1-Tsi8km-30" value="&lt;font face=&quot;Vazirmatn&quot;&gt;انبارش اقلام در انبار&lt;/font&gt;" style="text;fillColor=#00CCCC;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#000000;rounded=1;shadow=1;" parent="CTi8w1WEokJW1-Tsi8km-29" vertex="1">
+        <mxCell id="CTi8w1WEokJW1-Tsi8km-30" value="&lt;font face=&quot;Vazirmatn&quot;&gt;انبارش اقلام در انبار&lt;/font&gt;" style="text;fillColor=#00CCCC;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#000000;rounded=0;shadow=1;" parent="CTi8w1WEokJW1-Tsi8km-29" vertex="1">
           <mxGeometry y="30" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CTi8w1WEokJW1-Tsi8km-31" value="&lt;font face=&quot;Vazirmatn&quot;&gt;&lt;b&gt;انبار جنوبی&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillColor=#00CCCC;shadow=1;" parent="1" vertex="1">
@@ -116,12 +116,12 @@
         <mxCell id="CTi8w1WEokJW1-Tsi8km-32" value="&lt;font face=&quot;Vazirmatn&quot;&gt;انبارش اقلام در انبار&lt;/font&gt;" style="text;strokeColor=none;fillColor=#00CCCC;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shadow=1;" parent="CTi8w1WEokJW1-Tsi8km-31" vertex="1">
           <mxGeometry y="30" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="CTi8w1WEokJW1-Tsi8km-48" value="&lt;font face=&quot;Vazirmatn&quot;&gt;&lt;b&gt;سالن مونتاژ&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillColor=#007FFF;shadow=1;" parent="1" vertex="1">
+        <mxCell id="CTi8w1WEokJW1-Tsi8km-48" value="&lt;font face=&quot;Vazirmatn&quot;&gt;&lt;b&gt;سالن مونتاژ&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillColor=#007FFF;shadow=1;gradientColor=#66B2FF;gradientDirection=east;" parent="1" vertex="1">
           <mxGeometry x="370" y="170" width="90" height="190" as="geometry">
             <mxRectangle x="860" y="450" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CTi8w1WEokJW1-Tsi8km-49" value="&lt;span style=&quot;font-family: Vazirmatn;&quot;&gt;تغذیه خط سالن مونتاژ&lt;/span&gt;" style="text;strokeColor=default;fillColor=#007FFF;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shadow=1;" parent="CTi8w1WEokJW1-Tsi8km-48" vertex="1">
+        <mxCell id="CTi8w1WEokJW1-Tsi8km-49" value="&lt;span style=&quot;font-family: Vazirmatn;&quot;&gt;تغذیه خط سالن مونتاژ&lt;/span&gt;" style="text;strokeColor=default;fillColor=#007FFF;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shadow=1;gradientColor=#66B2FF;gradientDirection=east;" parent="CTi8w1WEokJW1-Tsi8km-48" vertex="1">
           <mxGeometry y="30" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AEj7Rj_eL6BV5jfszyMK-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="CTi8w1WEokJW1-Tsi8km-48" source="AEj7Rj_eL6BV5jfszyMK-16">
@@ -129,29 +129,29 @@
             <mxPoint x="-65" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AEj7Rj_eL6BV5jfszyMK-16" value="&lt;span style=&quot;font-family: Vazirmatn;&quot;&gt;ردیابی محصول&lt;/span&gt;" style="text;strokeColor=none;fillColor=#007FFF;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="CTi8w1WEokJW1-Tsi8km-48">
+        <mxCell id="AEj7Rj_eL6BV5jfszyMK-16" value="&lt;span style=&quot;font-family: Vazirmatn;&quot;&gt;ردیابی محصول&lt;/span&gt;" style="text;strokeColor=none;fillColor=#007FFF;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shadow=1;gradientColor=#66B2FF;gradientDirection=east;" vertex="1" parent="CTi8w1WEokJW1-Tsi8km-48">
           <mxGeometry y="110" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CTi8w1WEokJW1-Tsi8km-50" value="&lt;font face=&quot;Vazirmatn&quot;&gt;&lt;b&gt;&amp;nbsp;سالن رنگ&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#3399FF;" parent="1" vertex="1">
+        <mxCell id="CTi8w1WEokJW1-Tsi8km-50" value="&lt;font face=&quot;Vazirmatn&quot;&gt;&lt;b&gt;&amp;nbsp;سالن رنگ&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#3399FF;gradientColor=#99CCFF;gradientDirection=east;" parent="1" vertex="1">
           <mxGeometry x="505" y="170" width="90" height="190" as="geometry">
             <mxRectangle x="860" y="450" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CTi8w1WEokJW1-Tsi8km-51" value="&lt;font face=&quot;Vazirmatn&quot;&gt;انبارش اقلام در انبار&lt;/font&gt;" style="text;strokeColor=default;fillColor=#3399FF;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shadow=1;" parent="CTi8w1WEokJW1-Tsi8km-50" vertex="1">
+        <mxCell id="CTi8w1WEokJW1-Tsi8km-51" value="&lt;font face=&quot;Vazirmatn&quot;&gt;انبارش اقلام در انبار&lt;/font&gt;" style="text;strokeColor=default;fillColor=#3399FF;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shadow=1;gradientColor=#99CCFF;gradientDirection=east;" parent="CTi8w1WEokJW1-Tsi8km-50" vertex="1">
           <mxGeometry y="30" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AEj7Rj_eL6BV5jfszyMK-15" value="&lt;span style=&quot;font-family: Vazirmatn;&quot;&gt;ردیابی محصول&lt;/span&gt;" style="text;strokeColor=none;fillColor=#3399FF;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="CTi8w1WEokJW1-Tsi8km-50">
+        <mxCell id="AEj7Rj_eL6BV5jfszyMK-15" value="&lt;span style=&quot;font-family: Vazirmatn;&quot;&gt;ردیابی محصول&lt;/span&gt;" style="text;strokeColor=none;fillColor=#3399FF;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shadow=1;gradientColor=#99CCFF;gradientDirection=east;" vertex="1" parent="CTi8w1WEokJW1-Tsi8km-50">
           <mxGeometry y="110" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CTi8w1WEokJW1-Tsi8km-52" value="&lt;font face=&quot;Vazirmatn&quot;&gt;&lt;b&gt;سالن بدنه&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillColor=#66B2FF;shadow=1;" parent="1" vertex="1">
+        <mxCell id="CTi8w1WEokJW1-Tsi8km-52" value="&lt;font face=&quot;Vazirmatn&quot;&gt;&lt;b&gt;سالن بدنه&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillColor=#66B2FF;shadow=1;gradientColor=#99CCFF;gradientDirection=east;" parent="1" vertex="1">
           <mxGeometry x="640" y="170" width="90" height="190" as="geometry">
             <mxRectangle x="860" y="450" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CTi8w1WEokJW1-Tsi8km-53" value="&lt;font face=&quot;Vazirmatn&quot;&gt;تغذیه خط سالن بدنه&lt;/font&gt;" style="text;strokeColor=default;fillColor=#66B2FF;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=0;shadow=1;" parent="CTi8w1WEokJW1-Tsi8km-52" vertex="1">
+        <mxCell id="CTi8w1WEokJW1-Tsi8km-53" value="&lt;font face=&quot;Vazirmatn&quot;&gt;تغذیه خط سالن بدنه&lt;/font&gt;" style="text;strokeColor=default;fillColor=#66B2FF;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=0;shadow=1;gradientColor=#99CCFF;gradientDirection=east;" parent="CTi8w1WEokJW1-Tsi8km-52" vertex="1">
           <mxGeometry y="30" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AEj7Rj_eL6BV5jfszyMK-14" value="ردیابی محصول" style="text;strokeColor=none;fillColor=#66B2FF;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;rounded=0;shadow=1;" vertex="1" parent="CTi8w1WEokJW1-Tsi8km-52">
+        <mxCell id="AEj7Rj_eL6BV5jfszyMK-14" value="ردیابی محصول" style="text;strokeColor=none;fillColor=#66B2FF;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;rounded=0;shadow=1;gradientColor=#99CCFF;gradientDirection=east;" vertex="1" parent="CTi8w1WEokJW1-Tsi8km-52">
           <mxGeometry y="110" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CTi8w1WEokJW1-Tsi8km-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.044;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;fillColor=#6a00ff;strokeColor=#3700CC;strokeWidth=5;opacity=60;endSize=2;shadow=1;" parent="1" source="CTi8w1WEokJW1-Tsi8km-30" target="CTi8w1WEokJW1-Tsi8km-53" edge="1">
@@ -170,16 +170,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AEj7Rj_eL6BV5jfszyMK-18" value="&lt;font face=&quot;Vazirmatn&quot;&gt;&lt;b&gt;&amp;nbsp;بازرگانی خارجی&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+        <mxCell id="AEj7Rj_eL6BV5jfszyMK-18" value="&lt;font face=&quot;Vazirmatn&quot;&gt;&lt;b&gt;&amp;nbsp;بازرگانی خارجی&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#FFB570;strokeColor=#b46504;gradientColor=#FFF2CC;gradientDirection=west;" vertex="1" parent="1">
           <mxGeometry x="480.00000000000006" y="475" width="90" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="AEj7Rj_eL6BV5jfszyMK-19" value="&lt;font face=&quot;Vazirmatn&quot;&gt;ثبت فایل&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Vazirmatn&quot;&gt;&amp;nbsp;PFI&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=#b46504;fillColor=#fad7ac;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="AEj7Rj_eL6BV5jfszyMK-18">
+        <mxCell id="AEj7Rj_eL6BV5jfszyMK-19" value="&lt;font face=&quot;Vazirmatn&quot;&gt;ثبت فایل&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Vazirmatn&quot;&gt;&amp;nbsp;PFI&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=#b46504;fillColor=#FFB570;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shadow=1;gradientColor=#FFF2CC;gradientDirection=west;" vertex="1" parent="AEj7Rj_eL6BV5jfszyMK-18">
           <mxGeometry y="30" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AEj7Rj_eL6BV5jfszyMK-28" value="صدور پیشنهاد خرید" style="text;strokeColor=#b46504;fillColor=#fad7ac;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;shadow=1;" vertex="1" parent="AEj7Rj_eL6BV5jfszyMK-18">
+        <mxCell id="AEj7Rj_eL6BV5jfszyMK-28" value="صدور پیشنهاد خرید" style="text;strokeColor=#b46504;fillColor=#FFB570;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;shadow=1;gradientColor=#FFF2CC;gradientDirection=west;" vertex="1" parent="AEj7Rj_eL6BV5jfszyMK-18">
           <mxGeometry y="80" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AEj7Rj_eL6BV5jfszyMK-29" value="ثبت سفارش" style="text;strokeColor=none;fillColor=#fad7ac;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;shadow=1;rounded=1;" vertex="1" parent="AEj7Rj_eL6BV5jfszyMK-18">
+        <mxCell id="AEj7Rj_eL6BV5jfszyMK-29" value="ثبت سفارش" style="text;strokeColor=none;fillColor=#FFB570;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;shadow=1;rounded=1;gradientColor=#FFF2CC;gradientDirection=west;" vertex="1" parent="AEj7Rj_eL6BV5jfszyMK-18">
           <mxGeometry y="130" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AEj7Rj_eL6BV5jfszyMK-20" value="&amp;nbsp;تأمین قطعات خارجی" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;fillColor=#b1ddf0;strokeColor=#10739e;shadow=1;" vertex="1" parent="1">
@@ -191,10 +191,10 @@
         <mxCell id="AEj7Rj_eL6BV5jfszyMK-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.022;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;opacity=60;strokeWidth=5;fillColor=#fad7ac;strokeColor=#b46504;shadow=1;" edge="1" parent="1" source="AEj7Rj_eL6BV5jfszyMK-21" target="AEj7Rj_eL6BV5jfszyMK-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AEj7Rj_eL6BV5jfszyMK-30" value="&lt;font face=&quot;Vazirmatn&quot;&gt;&lt;b&gt;&amp;nbsp;بازرگانی خارجی&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+        <mxCell id="AEj7Rj_eL6BV5jfszyMK-30" value="&lt;font face=&quot;Vazirmatn&quot;&gt;&lt;b&gt;&amp;nbsp;بازرگانی خارجی&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#FFB570;strokeColor=#b46504;gradientColor=#FFF2CC;gradientDirection=west;" vertex="1" parent="1">
           <mxGeometry x="480.00000000000006" y="670" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AEj7Rj_eL6BV5jfszyMK-34" value="انتقال کانتینرها به محوطه گمرک داخلی" style="text;strokeColor=#b46504;fillColor=#fad7ac;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;shadow=1;rounded=1;" vertex="1" parent="AEj7Rj_eL6BV5jfszyMK-30">
+        <mxCell id="AEj7Rj_eL6BV5jfszyMK-34" value="انتقال کانتینرها به محوطه گمرک داخلی" style="text;strokeColor=#b46504;fillColor=#FFB570;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;shadow=1;rounded=1;gradientColor=#FFF2CC;gradientDirection=west;" vertex="1" parent="AEj7Rj_eL6BV5jfszyMK-30">
           <mxGeometry y="30" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AEj7Rj_eL6BV5jfszyMK-37" value="&lt;font face=&quot;Vazirmatn&quot;&gt;&lt;b&gt;M44&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillColor=#b1ddf0;strokeColor=#10739e;shadow=1;" vertex="1" parent="1">
@@ -203,7 +203,7 @@
         <mxCell id="AEj7Rj_eL6BV5jfszyMK-38" value="بسته بندی و ارسال قطعات" style="text;strokeColor=none;fillColor=#b1ddf0;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;shadow=1;rounded=1;" vertex="1" parent="AEj7Rj_eL6BV5jfszyMK-37">
           <mxGeometry y="30" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AEj7Rj_eL6BV5jfszyMK-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;fillColor=#fad7ac;strokeColor=#b46504;strokeWidth=5;opacity=60;shadow=1;" edge="1" parent="1" source="AEj7Rj_eL6BV5jfszyMK-29" target="AEj7Rj_eL6BV5jfszyMK-37">
+        <mxCell id="AEj7Rj_eL6BV5jfszyMK-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;fillColor=#fad7ac;strokeColor=#b46504;strokeWidth=5;opacity=60;shadow=1;flowAnimation=0;" edge="1" parent="1" source="AEj7Rj_eL6BV5jfszyMK-29" target="AEj7Rj_eL6BV5jfszyMK-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AEj7Rj_eL6BV5jfszyMK-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeWidth=5;fillColor=#b0e3e6;strokeColor=#0e8088;opacity=60;shadow=1;" edge="1" parent="1" source="AEj7Rj_eL6BV5jfszyMK-38" target="AEj7Rj_eL6BV5jfszyMK-34">
@@ -234,6 +234,9 @@
               <mxPoint x="1140" y="180" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AEj7Rj_eL6BV5jfszyMK-63" value="خروج از شرکت" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;fillColor=#FF9999;fontColor=#000000;strokeColor=#A50040;gradientColor=#FF99CC;gradientDirection=west;" vertex="1" parent="1">
+          <mxGeometry x="70" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
