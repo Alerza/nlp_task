@@ -4,6 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CTi8w1WEokJW1-Tsi8km-52" value="&lt;font face=&quot;Vazirmatn&quot;&gt;&lt;b&gt;سالن بدنه&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillColor=#66B2FF;shadow=1;gradientColor=#99CCFF;gradientDirection=east;opacity=90;" parent="1" vertex="1">
+          <mxGeometry x="640" y="170" width="90" height="190" as="geometry">
+            <mxRectangle x="860" y="450" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTi8w1WEokJW1-Tsi8km-53" value="&lt;font face=&quot;Vazirmatn&quot;&gt;تغذیه خط سالن بدنه&lt;/font&gt;" style="text;strokeColor=default;fillColor=#66B2FF;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=0;shadow=1;gradientColor=#99CCFF;gradientDirection=east;opacity=90;" parent="CTi8w1WEokJW1-Tsi8km-52" vertex="1">
+          <mxGeometry y="30" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AEj7Rj_eL6BV5jfszyMK-14" value="ردیابی محصول" style="text;strokeColor=none;fillColor=#66B2FF;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;rounded=0;shadow=1;gradientColor=#99CCFF;gradientDirection=east;opacity=90;" vertex="1" parent="CTi8w1WEokJW1-Tsi8km-52">
+          <mxGeometry y="110" width="90" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="3ne1QswCM8ZiEu4GHsYG-31" value="Company Goods Delivery Procedure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;fontColor=#4D4D4D;" parent="1" vertex="1">
           <mxGeometry x="191" y="10" width="790" height="30" as="geometry" />
         </mxCell>
@@ -58,6 +69,9 @@
         <mxCell id="AEj7Rj_eL6BV5jfszyMK-9" value="ترخیص و انتقال کانتینر به انبار کانتینری" style="text;strokeColor=none;fillColor=#E5CCFF;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;shadow=1;glass=0;rounded=1;opacity=80;gradientColor=#CC99FF;gradientDirection=west;" vertex="1" parent="CTi8w1WEokJW1-Tsi8km-12">
           <mxGeometry y="230" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="AEj7Rj_eL6BV5jfszyMK-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#666600;endArrow=none;endFill=0;curved=1;" edge="1" parent="1" source="CTi8w1WEokJW1-Tsi8km-20" target="AEj7Rj_eL6BV5jfszyMK-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CTi8w1WEokJW1-Tsi8km-20" value="&lt;font&gt;&lt;b&gt;انبار کانتینری&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;fillColor=#CCFF99;strokeColor=#ae4132;shadow=1;gradientColor=#CCFFFF;gradientDirection=east;" parent="1" vertex="1">
           <mxGeometry x="1200" y="409" width="90" height="180" as="geometry">
             <mxRectangle x="860" y="450" width="90" height="30" as="alternateBounds" />
@@ -72,7 +86,7 @@
         <mxCell id="AEj7Rj_eL6BV5jfszyMK-11" value="انتقال به بارانداز" style="text;strokeColor=none;fillColor=#CCFF99;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;rounded=1;shadow=1;gradientColor=#CCFFFF;gradientDirection=east;" vertex="1" parent="CTi8w1WEokJW1-Tsi8km-20">
           <mxGeometry y="130" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AEj7Rj_eL6BV5jfszyMK-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fillColor=#d80073;strokeColor=#A50040;opacity=60;strokeWidth=5;shadow=1;" edge="1" parent="1" source="CTi8w1WEokJW1-Tsi8km-24" target="CTi8w1WEokJW1-Tsi8km-31">
+        <mxCell id="AEj7Rj_eL6BV5jfszyMK-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fillColor=#6a00ff;strokeColor=#3700CC;opacity=60;strokeWidth=5;shadow=1;" edge="1" parent="1" source="CTi8w1WEokJW1-Tsi8km-24" target="CTi8w1WEokJW1-Tsi8km-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="975" y="100" />
@@ -80,12 +94,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AEj7Rj_eL6BV5jfszyMK-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fillColor=#6a00ff;strokeColor=#3700CC;strokeWidth=5;endSize=1;opacity=60;shadow=1;" edge="1" parent="1" source="CTi8w1WEokJW1-Tsi8km-24" target="CTi8w1WEokJW1-Tsi8km-29">
+        <mxCell id="AEj7Rj_eL6BV5jfszyMK-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;fillColor=#6a00ff;strokeColor=#3700CC;strokeWidth=5;endSize=1;opacity=60;shadow=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CTi8w1WEokJW1-Tsi8km-24" target="CTi8w1WEokJW1-Tsi8km-30">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="270" as="sourcePoint" />
+            <mxPoint x="955" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="905" y="185" />
-              <mxPoint x="905" y="140" />
-              <mxPoint x="835" y="140" />
+              <mxPoint x="975" y="295" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -100,20 +114,25 @@
         <mxCell id="AEj7Rj_eL6BV5jfszyMK-13" value="ثبت" style="text;strokeColor=none;fillColor=#FF99CC;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;shadow=1;gradientColor=#E6E6E6;gradientDirection=east;" vertex="1" parent="CTi8w1WEokJW1-Tsi8km-24">
           <mxGeometry y="70" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CTi8w1WEokJW1-Tsi8km-29" value="&lt;font face=&quot;Vazirmatn&quot;&gt;&lt;b&gt;انبار شمالی&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillColor=#00CCCC;strokeColor=#BD7000;fontColor=#000000;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="790" y="180" width="90" height="100" as="geometry">
+        <mxCell id="CTi8w1WEokJW1-Tsi8km-29" value="&lt;font face=&quot;Vazirmatn&quot;&gt;&lt;b&gt;انبار شمالی&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillColor=#00CCCC;strokeColor=#BD7000;fontColor=#000000;shadow=1;gradientColor=#33FF99;gradientDirection=east;" parent="1" vertex="1">
+          <mxGeometry x="800" y="230" width="90" height="100" as="geometry">
             <mxRectangle x="860" y="450" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CTi8w1WEokJW1-Tsi8km-30" value="&lt;font face=&quot;Vazirmatn&quot;&gt;انبارش اقلام در انبار&lt;/font&gt;" style="text;fillColor=#00CCCC;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#000000;rounded=0;shadow=1;" parent="CTi8w1WEokJW1-Tsi8km-29" vertex="1">
+        <mxCell id="CTi8w1WEokJW1-Tsi8km-30" value="&lt;font face=&quot;Vazirmatn&quot;&gt;انبارش اقلام در انبار&lt;/font&gt;" style="text;fillColor=#00CCCC;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#000000;rounded=0;shadow=1;gradientColor=#33FF99;gradientDirection=east;" parent="CTi8w1WEokJW1-Tsi8km-29" vertex="1">
           <mxGeometry y="30" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="CTi8w1WEokJW1-Tsi8km-31" value="&lt;font face=&quot;Vazirmatn&quot;&gt;&lt;b&gt;انبار جنوبی&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillColor=#00CCCC;shadow=1;" parent="1" vertex="1">
+        <mxCell id="AEj7Rj_eL6BV5jfszyMK-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#666600;strokeWidth=1;endArrow=none;endFill=0;curved=1;" edge="1" parent="1" source="CTi8w1WEokJW1-Tsi8km-31" target="AEj7Rj_eL6BV5jfszyMK-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155.5" y="234" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTi8w1WEokJW1-Tsi8km-31" value="&lt;font face=&quot;Vazirmatn&quot;&gt;&lt;b&gt;انبار جنوبی&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillColor=#00CCCC;shadow=1;gradientColor=#33FF99;gradientDirection=west;" parent="1" vertex="1">
           <mxGeometry x="220" y="170" width="90" height="100" as="geometry">
             <mxRectangle x="860" y="450" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CTi8w1WEokJW1-Tsi8km-32" value="&lt;font face=&quot;Vazirmatn&quot;&gt;انبارش اقلام در انبار&lt;/font&gt;" style="text;strokeColor=none;fillColor=#00CCCC;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shadow=1;" parent="CTi8w1WEokJW1-Tsi8km-31" vertex="1">
+        <mxCell id="CTi8w1WEokJW1-Tsi8km-32" value="&lt;font face=&quot;Vazirmatn&quot;&gt;انبارش اقلام در انبار&lt;/font&gt;" style="text;strokeColor=none;fillColor=#00CCCC;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shadow=1;gradientColor=#33FF99;gradientDirection=west;" parent="CTi8w1WEokJW1-Tsi8km-31" vertex="1">
           <mxGeometry y="30" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CTi8w1WEokJW1-Tsi8km-48" value="&lt;font face=&quot;Vazirmatn&quot;&gt;&lt;b&gt;سالن مونتاژ&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillColor=#007FFF;shadow=1;gradientColor=#66B2FF;gradientDirection=east;" parent="1" vertex="1">
@@ -143,21 +162,15 @@
         <mxCell id="AEj7Rj_eL6BV5jfszyMK-15" value="&lt;span style=&quot;font-family: Vazirmatn;&quot;&gt;ردیابی محصول&lt;/span&gt;" style="text;strokeColor=none;fillColor=#3399FF;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shadow=1;gradientColor=#99CCFF;gradientDirection=east;" vertex="1" parent="CTi8w1WEokJW1-Tsi8km-50">
           <mxGeometry y="110" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CTi8w1WEokJW1-Tsi8km-52" value="&lt;font face=&quot;Vazirmatn&quot;&gt;&lt;b&gt;سالن بدنه&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillColor=#66B2FF;shadow=1;gradientColor=#99CCFF;gradientDirection=east;" parent="1" vertex="1">
-          <mxGeometry x="640" y="170" width="90" height="190" as="geometry">
-            <mxRectangle x="860" y="450" width="90" height="30" as="alternateBounds" />
+        <mxCell id="CTi8w1WEokJW1-Tsi8km-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;fillColor=#6a00ff;strokeColor=#3700CC;strokeWidth=5;opacity=60;endSize=2;shadow=1;" parent="1" source="CTi8w1WEokJW1-Tsi8km-30" target="CTi8w1WEokJW1-Tsi8km-53" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="295" />
+              <mxPoint x="760" y="240" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CTi8w1WEokJW1-Tsi8km-53" value="&lt;font face=&quot;Vazirmatn&quot;&gt;تغذیه خط سالن بدنه&lt;/font&gt;" style="text;strokeColor=default;fillColor=#66B2FF;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=0;shadow=1;gradientColor=#99CCFF;gradientDirection=east;" parent="CTi8w1WEokJW1-Tsi8km-52" vertex="1">
-          <mxGeometry y="30" width="90" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="AEj7Rj_eL6BV5jfszyMK-14" value="ردیابی محصول" style="text;strokeColor=none;fillColor=#66B2FF;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;rounded=0;shadow=1;gradientColor=#99CCFF;gradientDirection=east;" vertex="1" parent="CTi8w1WEokJW1-Tsi8km-52">
-          <mxGeometry y="110" width="90" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="CTi8w1WEokJW1-Tsi8km-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.044;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;fillColor=#6a00ff;strokeColor=#3700CC;strokeWidth=5;opacity=60;endSize=2;shadow=1;" parent="1" source="CTi8w1WEokJW1-Tsi8km-30" target="CTi8w1WEokJW1-Tsi8km-53" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CTi8w1WEokJW1-Tsi8km-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.005;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;strokeWidth=5;fillColor=#0050ef;strokeColor=#001DBC;endSize=3;" parent="1" source="CTi8w1WEokJW1-Tsi8km-32" target="CTi8w1WEokJW1-Tsi8km-49" edge="1">
+        <mxCell id="CTi8w1WEokJW1-Tsi8km-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.005;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;strokeWidth=5;fillColor=#6a00ff;strokeColor=#3700CC;endSize=3;" parent="1" source="CTi8w1WEokJW1-Tsi8km-32" target="CTi8w1WEokJW1-Tsi8km-49" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="215" as="sourcePoint" />
           </mxGeometry>
@@ -215,7 +228,7 @@
         <mxCell id="AEj7Rj_eL6BV5jfszyMK-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;opacity=60;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=5;shadow=1;" edge="1" parent="1" source="AEj7Rj_eL6BV5jfszyMK-14" target="AEj7Rj_eL6BV5jfszyMK-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AEj7Rj_eL6BV5jfszyMK-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#6a00ff;strokeColor=#3700CC;strokeWidth=5;opacity=60;shadow=1;" edge="1" parent="1" source="AEj7Rj_eL6BV5jfszyMK-15" target="AEj7Rj_eL6BV5jfszyMK-16">
+        <mxCell id="AEj7Rj_eL6BV5jfszyMK-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=5;opacity=60;shadow=1;" edge="1" parent="1" source="AEj7Rj_eL6BV5jfszyMK-15" target="AEj7Rj_eL6BV5jfszyMK-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AEj7Rj_eL6BV5jfszyMK-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;endSize=6;opacity=60;strokeWidth=5;fillColor=#fad9d5;strokeColor=#ae4132;shadow=1;" edge="1" parent="1" source="AEj7Rj_eL6BV5jfszyMK-4" target="AEj7Rj_eL6BV5jfszyMK-1">
@@ -237,6 +250,48 @@
         </mxCell>
         <mxCell id="AEj7Rj_eL6BV5jfszyMK-63" value="خروج از شرکت" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;fillColor=#FF9999;fontColor=#000000;strokeColor=#A50040;gradientColor=#FF99CC;gradientDirection=west;" vertex="1" parent="1">
           <mxGeometry x="70" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AEj7Rj_eL6BV5jfszyMK-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeWidth=5;endSize=0;fillColor=#6a00ff;strokeColor=#3700CC;opacity=60;" edge="1" parent="1" source="CTi8w1WEokJW1-Tsi8km-30" target="CTi8w1WEokJW1-Tsi8km-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="295" />
+              <mxPoint x="770" y="150" />
+              <mxPoint x="620" y="150" />
+              <mxPoint x="620" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AEj7Rj_eL6BV5jfszyMK-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=1;strokeColor=#999900;curved=1;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AEj7Rj_eL6BV5jfszyMK-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="250" as="targetPoint" />
+            <mxPoint x="455.5" y="137" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="445" y="137" />
+              <mxPoint x="480" y="137" />
+              <mxPoint x="480" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AEj7Rj_eL6BV5jfszyMK-86" value="لیفتراک 2&lt;div style=&quot;font-size: 10px;&quot;&gt;یدک کش برقی 2&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;جک پالت 4&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF66;shadow=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="355" y="120" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AEj7Rj_eL6BV5jfszyMK-87" value="لیفتراک 2&lt;div style=&quot;font-size: 10px;&quot;&gt;یدک کش 2&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF66;shadow=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="77.5" y="210" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AEj7Rj_eL6BV5jfszyMK-89" value="لیفتراک 2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF66;shadow=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="515" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AEj7Rj_eL6BV5jfszyMK-94" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;dashed=1;strokeColor=#666600;endArrow=none;endFill=0;" edge="1" parent="1" source="AEj7Rj_eL6BV5jfszyMK-93" target="CTi8w1WEokJW1-Tsi8km-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AEj7Rj_eL6BV5jfszyMK-93" value="لیفتراک 2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF66;shadow=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="80" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AEj7Rj_eL6BV5jfszyMK-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#666600;dashed=1;curved=1;" edge="1" parent="1" source="AEj7Rj_eL6BV5jfszyMK-95" target="CTi8w1WEokJW1-Tsi8km-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AEj7Rj_eL6BV5jfszyMK-95" value="لیفتراک 3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF66;shadow=1;fontFamily=Vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVazirmatn;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="792.5" y="160" width="105" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
